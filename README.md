@@ -33,7 +33,7 @@ This repository requires the following libraries and frameworks:
 - Matplotlib
 - os
 - scikit-image
-- glob
+
 
 
 This repository was developed in the Python3 (3.9.12) programming language.
