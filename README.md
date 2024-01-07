@@ -24,6 +24,9 @@ This repository requires the following libraries and frameworks:
 
 This repository was developed in the Python3 (3.9.12) programming language.
 
+## Databases
+
+The data set used to reproduce the results can be downloaded from: <a href="https://drive.google.com/drive/folders/1G5vdhW11_qKfVC6W8_pfJpstVkXUk1QQ?usp=sharing">Here</a>. Images taken from: <a href="http://agents.fel.cvut.cz/boss/index.php?mode=VIEW&tmpl=materials">BOSS competition</a>, <a href="http://bows2.ec-lille.fr/index.php?mode=VIEW&tmpl=index1">BOWS2</a> and <a href="https://alaska.utt.fr/">ALASKA2</a> .
 
 ## Authors
 Universidad Autonoma de Manizales (https://www.autonoma.edu.co/)
